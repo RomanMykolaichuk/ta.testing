@@ -19,6 +19,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 public class Lab2Tests {
     
     //deploy changed
+    //lab3 change
     
 
     @Autowired
