@@ -18,6 +18,8 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 public class Lab2Tests {
     
+    //deploy changed
+    
 
     @Autowired
     EquationSample equationSample;
